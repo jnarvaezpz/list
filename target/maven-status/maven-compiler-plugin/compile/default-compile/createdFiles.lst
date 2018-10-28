@@ -1,0 +1,5 @@
+com\example\list\Musico\MusicoController.class
+com\example\list\Musico\Musico.class
+com\example\list\ListApplication.class
+com\example\list\Musico\MusicoService.class
+com\example\list\Musico\MusicoRepository.class
